@@ -1,0 +1,10 @@
+*.iml
+.DS_Store
+.classpath
+.idea
+.project
+.settings
+.tern-project
+.vscode
+bin
+nb-configuration.xml
